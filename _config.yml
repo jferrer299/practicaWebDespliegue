@@ -13,18 +13,18 @@
 title: CriCro Web cambio 2
 
 # Your name to show in the footer
-author: Some Person
+author: Joseph Ferrer
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mi"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://www.google.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://instagram.com"
 
 ################
 # --- Logo --- #
